@@ -4,9 +4,6 @@ import pandas as pd
 import requests
 import streamlit.components.v1 as components
 
-with open('style.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
 
 def fetch_poster(movie_id):
     file=requests.get("https://api.themoviedb.org/3/movie/{}?api_key=8265bd1679663a7ea12ac168da84d2e8&language=en-US".format(movie_id))
