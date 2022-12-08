@@ -10,5 +10,8 @@ Poster of the movies are fetched using api.
 
 Data set is taken from https://www.kaggle.com/
 
-![image](https://user-images.githubusercontent.com/87298268/206420991-9ba69c2f-d824-4642-bc1b-629ded1f11eb.png)
+Screenshot of project
+
+![image](https://user-images.githubusercontent.com/87298268/206421225-20f587f7-0ba5-4d34-83b8-6ad1701630f9.png)
+
 
